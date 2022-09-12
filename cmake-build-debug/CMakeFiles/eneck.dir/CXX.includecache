@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/eneck/Langage.h
+string
+-
+vector
+-
+Mots_cles.h
+D:/CLionProjects/eneck/Mots_cles.h
+
+D:/CLionProjects/eneck/Mots_cles.h
+
+D:/CLionProjects/eneck/main.cpp
+iostream
+-
+iostream
+-
+string
+-
+Langage.h
+D:/CLionProjects/eneck/Langage.h
+Mots_cles.h
+D:/CLionProjects/eneck/Mots_cles.h
+
